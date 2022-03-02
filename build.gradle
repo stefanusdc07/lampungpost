@@ -1,0 +1,48 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+allprojects {
+    repositories {
+        jcenter()
+        maven {
+            url "https://maven.google.com"
+            name 'Google'
+        }
+        google()
+        maven {
+            url 'https://jitpack.io'
+        }
+    }
+}
+
+buildscript {
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.1'
+        classpath 'com.google.gms:google-services:4.3.10'
+        classpath 'com.jaredsburrows:gradle-license-plugin:0.8.80'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.5.2'
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:[0.12.4, 0.99.99]'
+
+    }
+    repositories {
+        google()
+        maven {
+            url 'https://plugins.gradle.org/m2/'
+        }
+        maven {
+            url 'https://maven.google.com/'
+        }
+        jcenter()
+    }
+}
+
+ext {
+    supportlib_version = '29.0.0'
+    gps_version = '[16.0.0, 17.0.0)'
+    fb_version = '[16.0.0, 18.0.0)'
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
