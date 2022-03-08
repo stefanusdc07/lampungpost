@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-dash:2.9.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76b4e50dd09768514c9ac5aecbdbb7bc/jetified-exoplayer-dash-2.9.6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df98b3e529c8949526124d2adc29cf80/jetified-exoplayer-dash-2.9.6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96cf11e200107debac9055e5d4ee1ad7/jetified-exoplayer-dash-2.9.6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ad40c8150bcaeb082cc08f88e5a6586b/transformed/jetified-exoplayer-dash-2.9.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2827a0cb3c11905811ac6642da9c22a3/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53ae223bcecf39e46c311e69ef804386/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d67abc70f4c5fe497adc46fe1dd659b7/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ae2639c72c5fdc6ff0b3c5e03f3456f/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b065c209c8a1c255650aabc5b1e3fa8/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76b4e50dd09768514c9ac5aecbdbb7bc/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76b4e50dd09768514c9ac5aecbdbb7bc/jetified-exoplayer-dash-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76b4e50dd09768514c9ac5aecbdbb7bc/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df98b3e529c8949526124d2adc29cf80/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df98b3e529c8949526124d2adc29cf80/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df98b3e529c8949526124d2adc29cf80/jetified-exoplayer-dash-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96cf11e200107debac9055e5d4ee1ad7/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96cf11e200107debac9055e5d4ee1ad7/jetified-exoplayer-dash-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96cf11e200107debac9055e5d4ee1ad7/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0eff34cdd3faaa16b843f28fb078473f/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/defb09c6390983c3fca37ef922b3f657/transformed/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ad40c8150bcaeb082cc08f88e5a6586b/transformed/jetified-exoplayer-dash-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ad40c8150bcaeb082cc08f88e5a6586b/transformed/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ad40c8150bcaeb082cc08f88e5a6586b/transformed/jetified-exoplayer-dash-2.9.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-dash/2.9.6/33431569355b0486050d0a1ed170ac0736f0e5ad/exoplayer-dash-2.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-dash/2.9.6/b3bfad74517a7bcc78b8b1304ebfd7dddac9857a/exoplayer-dash-2.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

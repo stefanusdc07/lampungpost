@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-hls:2.9.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30f33278d8afef7f53e41f570a4b28eb/jetified-exoplayer-hls-2.9.6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e32ef26e4b0f1b3c6aa634e8e04c1d3/jetified-exoplayer-hls-2.9.6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b38738bee736743417520a3f415afb1c/jetified-exoplayer-hls-2.9.6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5ba4ba3271cbae47d5732757b55555ee/transformed/jetified-exoplayer-hls-2.9.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc2cadf27b72872209b127d872de2294/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9110b791169f5f3a1c1dfe7e2ba2ddfc/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36edd43f89a0ce13621fff22b8b0ef6c/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/314651fc06f582efa7be7fc9e8620a04/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c952ccd1fc896cb788b39a561c7c04b0/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30f33278d8afef7f53e41f570a4b28eb/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30f33278d8afef7f53e41f570a4b28eb/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30f33278d8afef7f53e41f570a4b28eb/jetified-exoplayer-hls-2.9.6/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e32ef26e4b0f1b3c6aa634e8e04c1d3/jetified-exoplayer-hls-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e32ef26e4b0f1b3c6aa634e8e04c1d3/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e32ef26e4b0f1b3c6aa634e8e04c1d3/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b38738bee736743417520a3f415afb1c/jetified-exoplayer-hls-2.9.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b38738bee736743417520a3f415afb1c/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b38738bee736743417520a3f415afb1c/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd6a2eb69268372e305d5e9fbaeeaf75/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f61e8122d6c127c04878643defd7f1ab/transformed/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5ba4ba3271cbae47d5732757b55555ee/transformed/jetified-exoplayer-hls-2.9.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5ba4ba3271cbae47d5732757b55555ee/transformed/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5ba4ba3271cbae47d5732757b55555ee/transformed/jetified-exoplayer-hls-2.9.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-hls/2.9.6/a6c3ea4978ca62df28d3b85f0f5a83364f82eb0f/exoplayer-hls-2.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-hls/2.9.6/c30e6417089000e26170ca21d4f424cda37fe3e6/exoplayer-hls-2.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
