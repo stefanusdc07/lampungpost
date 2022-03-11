@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "42",
-    "firebase_url": "https://dummy-safe-project.firebaseio.com",
-    "project_id": "dummy-safe-project",
-    "storage_bucket": "dummy-safe-project.appspot.com"
+    "firebase_url": "https://lampungpostid.firebaseio.com",
+    "project_id": "lampungpostid",
+    "storage_bucket": "lampungpostid.com"
   },
   "client": [
     {
@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "SomeFakeApiKey"
+          "current_key": "3843628238327SHAMD8"
         }
       ],
       "services": {
@@ -52,7 +52,7 @@
       ],
       "api_key": [
         {
-          "current_key": "SomeFakeApiKey"
+          "current_key": "3843628238327SHAMD8"
         }
       ],
       "services": {
@@ -83,7 +83,7 @@
       ],
       "api_key": [
         {
-          "current_key": "SomeFakeApiKey"
+          "current_key": "3843628238327SHAMD8"
         }
       ],
       "services": {
